@@ -1,24 +1,23 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil no GitHub!
+### Hello, welcome to my Github profile! 🖐🏽
 
-Meu nome é Marcos Oliveira e sou apaixonado por aprender e explorar novas tecnologias! 🚀  
+## ⚡ About me
+- 🎯 I like challenges and I learn quickly, always seeking to improve myself.
+- 📚 In addition to Java, I am also interested in expanding my knowledge about software development, good coding practices and new tools.
+- 🌟 I have experience in different professional areas, such as customer service and administrative and financial assistance, which helped me develop organization and interpersonal skills.
 
-## 🌱 Atualmente estou aprendendo
-Atualmente, estou focado em estudar **Java**. Ainda estou no início da minha jornada, mas tenho me dedicado muito para dominar a linguagem e criar projetos que me ajudem a aplicar o que estou aprendendo.  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcoscastro.dev)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoosdecastro/)
 
-## ⚡ Sobre mim
-- 🎯 Gosto de desafios e aprendo rápido, sempre buscando me superar.  
-- 📚 Além de Java, também estou interessado em expandir meu conhecimento sobre desenvolvimento de software, boas práticas de código e novas ferramentas.  
-- 🌟 Tenho experiência em diferentes áreas profissionais, como atendimento ao cliente e assistência administrativa e financeira, o que me ajudou a desenvolver organização e habilidades interpessoais.  
+![Marcos Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoosdecastro&hide=contribs,prs)
 
-## 💻 O que você vai encontrar aqui?
-Aqui você encontrará:
-- Projetos de estudo e prática em Java.  
-- Experimentos com novas tecnologias.  
-- Meu progresso ao longo da minha jornada como desenvolvedor. 
+## The languages ​​I am currently learning for my development are:
 
-## 📫 Vamos conectar?
-Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, fique à vontade para me chamar! 😄  
+<div style="display: inline_block"><br\>
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
 
----
+#### I'm passionate about technology and programming!
 
-Agradeço por visitar meu perfil. Espero que goste dos projetos e acompanhe minha evolução! 🚀
+[![Linguagem mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoosdecastro)](https://github.com/marcoosdecastro/github-readme-stats)
